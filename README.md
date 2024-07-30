@@ -24,7 +24,7 @@ To run this project, you'll need to have Python installed along with several lib
 
 ## Dataset
 
-The project uses the RAF-DB dataset, which contains images labeled with different emotions. You can download the dataset from the official RAF-DB website. Ensure that the dataset is placed in the appropriate directory for the project to access.
+The project uses the [RAF-DB](http://www.whdeng.cn/raf/model1.html) dataset, which contains images labeled with different emotions. You can download the dataset from the official RAF-DB website. Ensure that the dataset is placed in the appropriate directory for the project to access.
 
 ## Usage
 
