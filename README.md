@@ -11,8 +11,7 @@ This project implements emotion recognition using a Vision Transformer (ViT) mod
 - [Data Augmentations](#data-augmentations)
 - [Model Training](#model-training)
 - [Evaluation](#evaluation)
-- [Contributing](#contributing)
-- [License](#license)
+
 
 ## Introduction
 
