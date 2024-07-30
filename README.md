@@ -56,7 +56,3 @@ The training process involves the following steps:
 
 After training the model, evaluate its performance on the test set. The model achieved an accuracy of 85%, demonstrating its effectiveness in classifying emotions from images.
 
-## Contributing
-
-Contributions are welcome! If you have any ideas or improvements, please feel free to submit a Pull Request.
-
